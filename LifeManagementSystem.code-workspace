@@ -5,6 +5,10 @@
 		}
 	],
 	"settings": {
+		"workbench.colorCustomizations": {
+            "editor.background": "#fefff7"
+        },
+
 		"editor.fontFamily": "Kaiti SC, Times, Menlo, Monaco, 'Courier New', monospace",
 		"files.autoSave": "afterDelay"
 	}
